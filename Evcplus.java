@@ -37,8 +37,7 @@ public class Evcplus {
 
     public static void main(String[] args) {
 
-        System.out.println("ABDIRAHMAN NOR ALI");
-        System.out.println("C6240208");
+        
 
         System.out.println("------------------");
         System.out.println("   Available Options");
